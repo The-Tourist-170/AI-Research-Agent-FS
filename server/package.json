@@ -4,13 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "local:dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules src/app.ts",
+    "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules src/app.ts",
     "worker": "ts-node-dev --respawn src/service/worker.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc",
-    "start:server": "node dist/app.js",
-    "start:worker": "node dist/service/worker.js",
-    "dev": "nodemon src/app.ts"
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
