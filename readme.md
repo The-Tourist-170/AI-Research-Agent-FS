@@ -136,8 +136,8 @@ Follow these steps to get the application running on your local machine.
 
 ## Public URLs 🌐
 
-  - **Frontend**: `https://ai-research-agent-2002.firebaseapp.com/`
-  - **Backend**: `https://server-ai-research-agent.onrender.com`
+  - **Frontend**: [client](https://ai-research-agent-2002.firebaseapp.com/)
+  - **Backend**: [server](https://server-ai-research-agent.onrender.com)
 
 -----
 
